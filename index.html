@@ -269,22 +269,29 @@
                     <h3 class="font-weight-bold">Contáctanos para comenzar tu proyecto</h3>
                     <p class="text-muted mb-4">Te facilitamos todos los procesos para tu comodidad.</p>
 
-                    <form action="enviar2.php" method="POST">
-                        <div class="form-row">
-                          <div class="col-12 col-md-3 my-3">
-                            <input type="text" name="nombre" class="form-control shadow" required="required"  placeholder="Nombre">
-                          </div>
-                          <div class="col-12 col-md-3 my-3">
-                            <input type="text" name="email" class="form-control shadow" required="required" placeholder="Email">
-                          </div>
-                          <div class="col-12 col-md-3 my-3">
-                            <input type="text" name="telefono" class="form-control shadow" required="required" placeholder="Teléfono">
-                          </div>
-                          <div class="col-12 col-md-3 my-3">
-                            <button type="submit" value="enviar" class="btn btn-primary w-100 shadow">Enviar datos</button>
-                          </div>
-                        </div>
-                      </form>
+      <form name="contact" method="POST" data-netlify="true">
+               <p>
+                 <label>Your Name: <input type="text" name="name" /></label>   
+                </p>
+               <p>
+                 <label>Your Email: <input type="email" name="email" /></label>
+                </p>
+              <p>
+                <label>Your Role: <select name="role[]" multiple>
+               <option value="leader">Leader</option>
+               <option value="follower">Follower</option>
+               </select></label>
+                </p>
+                <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
+                    
+                    
+                    
                 </div>
             </div>
         </div>
