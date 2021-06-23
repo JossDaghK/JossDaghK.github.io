@@ -1,0 +1,28 @@
+<svg width="1440" height="500" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <linearGradient y2="1" x2="0.5" y1="0" x1="0.5" id="svg_6">
+   <stop stop-opacity="0.99609" stop-color="#f71dcf"/>
+   <stop stop-color="#0A0A0A" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.5" y1="0" x1="0.5" id="svg_7">
+   <stop stop-opacity="0.99609" offset="0" stop-color="#ed1eca"/>
+   <stop stop-color="#0A0A0A" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.5" y1="0" x1="0.5" id="svg_8">
+   <stop stop-opacity="0.99609" stop-color="#ea2ac0"/>
+   <stop stop-color="#0A0A0A" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.5" y1="0" x1="0.5" id="svg_9">
+   <stop stop-opacity="0.99609" stop-color="#ea48c2"/>
+   <stop stop-color="#0A0A0A" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" fill="#0A0A0A" height="500" width="1440"/>
+  <rect transform="rotate(45 1262.14 348)" id="svg_2" fill="url(#svg_8)" height="160" width="30" y="267.99972" x="1247.13947"/>
+  <rect transform="rotate(-135 1291.71 393.562)" id="svg_3" fill="url(#svg_9)" height="120" width="30" y="333.56176" x="1276.71023"/>
+  <rect transform="rotate(45 176.136 95.9996)" id="svg_4" fill="url(#svg_6)" height="160" width="30" y="15.99964" x="161.13645"/>
+  <rect transform="rotate(-135 203.711 151.562)" id="svg_5" fill="url(#svg_7)" height="120" width="30" y="91.56179" x="188.71119"/>
+ </g>
+</svg>

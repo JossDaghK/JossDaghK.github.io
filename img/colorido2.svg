@@ -1,0 +1,28 @@
+<svg width="1440" height="1000" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <linearGradient id="svg_6" x1="0.5" y1="0" x2="0.5" y2="1">
+   <stop stop-color="#d62ffc" stop-opacity="0.99609"/>
+   <stop offset="1" stop-color="#111111"/>
+  </linearGradient>
+  <linearGradient id="svg_7" x1="0.5" y1="0" x2="0.5" y2="1">
+   <stop stop-color="#f72ed2" stop-opacity="0.99609"/>
+   <stop offset="1" stop-color="#111111"/>
+  </linearGradient>
+  <linearGradient id="svg_8" x1="0.5" y1="0" x2="0.5" y2="1">
+   <stop stop-color="#fc2fe1" stop-opacity="0.99609"/>
+   <stop offset="1" stop-color="#111111"/>
+  </linearGradient>
+  <linearGradient id="svg_9" x1="0.5" y1="0" x2="0.5" y2="0.99998">
+   <stop stop-color="#fc2fe4" stop-opacity="0.99609"/>
+   <stop offset="1" stop-color="#111111"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect width="1440" height="1000" fill="#111111" id="svg_1"/>
+  <rect x="159.13706" y="62.00005" width="30" height="160" fill="url(#svg_6)" id="svg_2" transform="rotate(45 174.137 142)"/>
+  <rect x="186.71098" y="127.56315" width="30" height="120" fill="url(#svg_7)" id="svg_3" transform="rotate(-135 201.711 187.563)"/>
+  <rect x="1251.14005" y="712.00004" width="30" height="160" fill="url(#svg_8)" id="svg_4" transform="rotate(45 1266.14 792)"/>
+  <rect x="1286.70996" y="781.56314" width="30" height="120" fill="url(#svg_9)" id="svg_5" transform="rotate(-135 1301.71 841.563)"/>
+ </g>
+</svg>

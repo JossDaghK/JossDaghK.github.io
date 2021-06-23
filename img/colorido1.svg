@@ -1,0 +1,32 @@
+<svg width="1440" height="1000" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <linearGradient y2="1" x2="0.5" y1="0" x1="0.5" id="svg_7">
+   <stop stop-opacity="0.99609" stop-color="#b82ffc"/>
+   <stop stop-color="#0A0A0A" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.5" y1="0" x1="0.5" id="svg_6">
+   <stop stop-opacity="0.99609" stop-color="#aa21ef"/>
+   <stop stop-color="#0A0A0A" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.5" y1="0" x1="0.5" id="svg_12">
+   <stop stop-opacity="0.99609" stop-color="#b82ffc"/>
+   <stop stop-color="#0A0A0A" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="0.99998" x2="0.5" y1="0" x1="0.5" id="svg_13">
+   <stop stop-opacity="0.99609" stop-color="#a631ea"/>
+   <stop stop-color="#0A0A0A" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" fill="#0A0A0A" height="1000" width="1440"/>
+  <rect transform="rotate(45 138.137 146)" id="svg_2" fill="url(#svg_6)" height="160" width="30" y="65.99988" x="123.13727"/>
+  <rect transform="rotate(-135 168.711 194.563)" id="svg_3" fill="url(#svg_7)" height="120" width="30" y="134.56291" x="153.71124"/>
+  <rect transform="rotate(45 1258.14 784.001)" id="svg_4" fill="url(#svg_12)" height="160" width="30" y="704.0006" x="1243.1408"/>
+  <rect transform="rotate(-135 1293.71 839.565)" id="svg_5" fill="url(#svg_13)" height="120" width="30" y="779.56479" x="1278.70964"/>
+  <path transform="translate(121,115) scale(0.005) translate(-121,-115)" id="svg_8" d="m24.778,21.419l-5.502,-5.502l5.501,-5.502l-2.828,-2.83l-5.502,5.502l-5.502,-5.502l-2.828,2.83l5.501,5.502l-5.502,5.502l2.83,2.829l5.501,-5.502l5.501,5.502" opacity="NaN" fill="url(#svg_7)"/>
+  <path transform="translate(67,105) scale(0.005) translate(-67,-105)" id="svg_9" d="m24.778,21.419l-5.502,-5.502l5.501,-5.502l-2.828,-2.83l-5.502,5.502l-5.502,-5.502l-2.828,2.83l5.501,5.502l-5.502,5.502l2.83,2.829l5.501,-5.502l5.501,5.502" opacity="NaN" fill="url(#svg_7)"/>
+  <path transform="translate(108,83) scale(0.005) translate(-108,-83)" id="svg_10" d="m24.778,21.419l-5.502,-5.502l5.501,-5.502l-2.828,-2.83l-5.502,5.502l-5.502,-5.502l-2.828,2.83l5.501,5.502l-5.502,5.502l2.83,2.829l5.501,-5.502l5.501,5.502" opacity="NaN" fill="url(#svg_7)"/>
+  <path transform="translate(135,378) scale(0.005) translate(-135,-378)" id="svg_11" d="m24.778,21.419l-5.502,-5.502l5.501,-5.502l-2.828,-2.83l-5.502,5.502l-5.502,-5.502l-2.828,2.83l5.501,5.502l-5.502,5.502l2.83,2.829l5.501,-5.502l5.501,5.502" opacity="NaN" fill="url(#svg_7)"/>
+ </g>
+</svg>
